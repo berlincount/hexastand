@@ -1,11 +1,11 @@
 
 Hexagonal element stand (unrefined)
 
-Licensed under CC-BY-SA https://creativecommons.org/licenses/by-sa/4.0/
+[Licensed under CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Simple stand consisting of:
 
-![](parts.jpg | width=80%)
+![Parts](parts.jpg)
 
 - stand-leg.scad - simple legs which can be interconnected
 - stand-connector.scad - vertical and horizontal connectors
@@ -14,4 +14,4 @@ Simple stand consisting of:
 
 Unrefined version without templates or variables
 
-![](assembled.jpg | width=80%)
+![Assembled](assembled.jpg)
