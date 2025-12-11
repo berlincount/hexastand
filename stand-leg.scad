@@ -1,4 +1,4 @@
-# CC-BY-SA https://github.com/berlincount/hexastand/
+// CC-BY-SA https://github.com/berlincount/hexastand/
 include <BOSL2/std.scad>
 include <BOSL2/screws.scad>
 
